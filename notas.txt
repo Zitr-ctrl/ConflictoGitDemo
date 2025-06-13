@@ -1,2 +1,2 @@
-Este cambio fue realizado por Alumno 1
-Sin conflictos
+Este cambio fue fusionado por ambos alumnos. Línea 1.
+Línea 2 sin conflictos.
